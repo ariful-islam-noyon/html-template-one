@@ -1,0 +1,166 @@
+
+
+@media ( max-width : 1399px ){
+
+
+    .pricing-item ul li {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .pricing-item > h5 {
+        margin-top: 75px !important;
+    }
+
+    .pricing-item {
+        padding: 70px 20px;
+
+    }
+
+}
+
+/* XXL device  */
+@media ( min-width: 1200px ) and ( max-width : 1399px ){
+
+    /* About Section */
+    .about-text {
+        margin-top: 23px;
+    }
+    .pricing-item ul li {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+   
+
+
+}
+/* XL device  */
+@media ( min-width: 992px ) and ( max-width : 1199px ){
+
+    .about-text {
+	margin-top: 0px;
+}
+.about-section .px-5 {
+	padding: 0 18px !important;
+}
+.pricing-item {
+    padding: 50px 20px;
+
+}
+}
+
+/* MD device  */
+@media ( min-width: 768px ) and ( max-width : 991px ){
+
+    .navbar-nav{
+        margin-right: 0 !important;
+    }
+    .my-header .nav-link {
+        padding-left: 5px !important;
+    }
+    /* Slider Section */
+    .slider-caption {
+        margin-top: 50px;
+    }
+    .about-text {
+        margin-top: 0px;
+    }
+    .about-section .px-5 {
+        padding: 0 !important;
+    }
+    .col-lg-6.col-md-6.px-5.about-res {
+        padding-left: 30px !important;
+    }
+    .about-text h6 {
+        margin-bottom: 5px !important;
+    }
+    .about-text h1 {
+        margin-bottom: 5px !important;
+        font-size: 27px;
+    }
+    .about-text p {
+        margin-bottom: 10px !important;
+    }
+    .about-img.img-thumbnail {
+        margin-top: 5px;
+    }
+    .pricing-item {
+        padding-top: 60px;
+        padding-bottom: 40px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .pricing-item ul li {
+        margin-bottom: 0;
+    }
+    .pricing-item ul li {
+        font-size: 17px;
+    }
+    .team-item .card img {
+        margin-top: -50px;
+        border-radius: 50%;
+    }
+    .input-res {
+        margin-bottom: 15px;
+    }
+}
+
+
+
+@media ( max-width : 767px ) {
+    .slider-caption.text-dark {
+        text-align: center;
+    }
+    .slider-caption {
+        margin-top: 50px;
+    }
+    .about-text {
+        text-align: center;
+    }
+    .number-counter {
+        padding: 40px 0;
+    }
+    .counter-number-item.text-center {
+        margin: 15px 0;
+    }
+    .input-res {
+        margin-bottom: 15px;
+    }
+    .get-in {
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+}
+
+
+/* SM device  */
+@media ( min-width: 576px ) and ( max-width : 767px ){
+
+    .navbar-nav{
+        margin-right: 0 !important;
+    }
+    .my-header .nav-link {
+        padding-left: 5px !important;
+    }
+ /* Slider Section */
+ .slider-caption {
+    margin-top: 50px;
+}
+
+.team-item .card-body {
+	padding: 15px 60px;
+}
+.team-item .card img {
+    margin-top: -50px;
+    border-radius: 50%;
+}
+
+}
+
+
+@media( max-width: 575px ) {
+
+
+
+
+
+}
